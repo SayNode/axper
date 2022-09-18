@@ -39,20 +39,18 @@ class _Governance extends State<Governance>
       child: Scaffold(
         extendBodyBehindAppBar: true,
         appBar: AppBar(
-          title: const TabBar(
-            tabs: [Text("Pending"), Text("Done"), Text("Denied")],
+          title: TabBar(
+            tabs: [Text("Pending", style: GoogleFonts.nunito(
+                        fontSize: 14,
+                        color: ThemeAxper.textBlue,
+                        fontWeight: FontWeight.w500),), Text("Done", style: GoogleFonts.nunito(
+                        fontSize: 14,
+                        color: ThemeAxper.textBlue,
+                        fontWeight: FontWeight.w500),), Text("Denied", style: GoogleFonts.nunito(
+                        fontSize: 14,
+                        color: ThemeAxper.textBlue,
+                        fontWeight: FontWeight.w500),)],
           ),
-/*
-          leading: IconButton(
-            icon: const Center(
-              child: Icon(
-                Icons.menu,
-                color: ThemeAxper.white,
-              ),
-            ),
-            onPressed: () => Scaffold.of(context).openDrawer(),
-          ),
-          */
         ),
         body: Container(
           width: double.infinity,

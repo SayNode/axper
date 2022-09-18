@@ -1,5 +1,6 @@
 import 'package:axa_casper_app/Theme/theme.dart';
 import 'package:axa_casper_app/models/activities.dart';
+import 'package:axa_casper_app/pages/faq_page.dart';
 import 'package:axa_casper_app/pages/home/widgets/activites_card.dart';
 import 'package:axa_casper_app/pages/home/widgets/drawer.dart';
 import 'package:axa_casper_app/repositories/activites_repo.dart';
@@ -63,11 +64,14 @@ class HomePage extends StatelessWidget {
                     IconButton(
                       icon: const Center(
                         child: Icon(
-                          Icons.qr_code,
+                          Icons.question_mark,
                           color: ThemeAxper.white,
                         ),
                       ),
-                      onPressed: () => scaffoldKey.currentState?.openDrawer(),
+                      onPressed: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => const FAQ()),
+                    )
                     ),
                   ],
                 ),

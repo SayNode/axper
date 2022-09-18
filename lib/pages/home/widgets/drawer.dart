@@ -1,4 +1,5 @@
 import 'package:axa_casper_app/Theme/theme.dart';
+import 'package:axa_casper_app/pages/faq_page.dart';
 import 'package:axa_casper_app/pages/home/home_page.dart';
 import 'package:axa_casper_app/pages/home/home_page_loader.dart';
 import 'package:axa_casper_app/pages/send_page.dart';
@@ -18,7 +19,7 @@ class AxperDrawer extends StatelessWidget {
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
           Row(
             children: [
-              CircleAvatar(
+              const CircleAvatar(
                 backgroundImage: AssetImage("lib/assets/images/Me.jpg"),
                 radius: 35.0,
               ),
@@ -26,9 +27,9 @@ class AxperDrawer extends StatelessWidget {
                 width: 10,
                 height: 100,
               ),
-              Padding(
+              const Padding(
                 padding:
-                    const EdgeInsets.only(left: 8, right: 0, top: 8, bottom: 8),
+                    EdgeInsets.only(left: 8, right: 0, top: 8, bottom: 8),
                 child: Text(
                   'Werner Liechti',
                   overflow: TextOverflow.ellipsis,
@@ -91,7 +92,7 @@ class AxperDrawer extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => SendPage()),
+                  MaterialPageRoute(builder: (context) => const SendPage()),
                 );
               },
             ),
@@ -106,14 +107,17 @@ class AxperDrawer extends StatelessWidget {
                 'FAQ',
                 style: Theme.of(context).textTheme.subtitle1,
               ),
-              onTap: () => {null},
+              onTap: () => Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const FAQ()),
+                ),
             ),
           ),
           const Divider(
             color: ThemeAxper.primaryBlue,
             thickness: 2,
           ),
-          SizedBox(height: 10),
+          const SizedBox(height: 10),
           Expanded(child: Container()),
           Material(
             type: MaterialType.transparency,

@@ -32,7 +32,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-# Code from https://github.com/TheArcadiaGroup/casper-dart-sdk
   casper_sdk:
     path: assets/packages/casper_sdk
 
@@ -75,7 +74,7 @@ flutter:
      - lib/assets/images/logo.png
      - lib/assets/images/Me.jpg
      - lib/assets/images/coin.png
-     - lib/assets/images/coin_inv.png
+     -  lib/assets/images/coin_inv.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

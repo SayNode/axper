@@ -32,12 +32,6 @@ class _RequestListviewState extends State<RequestListview> {
           SizedBox(
             height: 100,
           ),
-          ElevatedButton(
-              onPressed: () async {
-                final prefs = await SharedPreferences.getInstance();
-                await prefs.clear();
-              },
-              child: Text('reset')),
           Container(
             padding: EdgeInsets.all(20),
             child: Text(
