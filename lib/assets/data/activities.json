@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Gym",
+        "subtitle": "Joining the Gym",
+        "description": "Lifting weight and burning calories will get you even healthier! To get your reward, redeem the code from your Gym-club to get your tokens.",
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "group": 1
+    },
+    {
+        "title": "Sport",
+        "subtitle": "Sport Activities",
+        "description": "The more sport you do, the more Axper you earn! To get your reward, link the Axper-App with Google Fit to verify your activity.",
+        "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2128&q=80",
+        "group": 1
+    },
+    {
+        "title": "Public Transport",
+        "subtitle": "Use of public transport",
+        "description": "Using trains can reduce up to 95% of CO2-emission! To get your reward, link the Axper-App with the SBB Mobile App to verify your ticket purchases.",
+        "image": "https://images.unsplash.com/photo-1623227672748-c272c0c0df52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+        "group": 1
+    },
+    {
+        "title": "Groceries",
+        "subtitle": "Buy groceries at the local farmers shop",
+        "description": "Next time you buy your groceries at the local farmers shop with Twint, you get rewarded! To get your reward, link the Axper-App with Twint to verify your purchases.",
+        "image": "https://images.unsplash.com/photo-1516594798947-e65505dbb29d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "group": 1
+    },
+    {
+        "title": "Driving",
+        "subtitle": "Sustainable driving with your car",
+        "description": "Driving with foresight can save up to 50% of fuel for your car! To get your reward, link the Axper-App with your insurance app to verify your car driving records.",
+        "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+        "group": 1
+    },
+    {
+        "title": "Rideshare",
+        "subtitle": "Car seat sharing",
+        "description": "Sharing your seat with others for your daily commute will reduce heavy traffic up to 20%! To get your reward, link the Axper-App with your HitchHike account to verify your driving records.",
+        "image": "https://images05-www.oeamtc.at/Fahrgemeinschaft%2BCarpool.jpg/article-default/34.592.360",
+        "group": 2
+    },
+    {
+        "title": "Volunteering",
+        "subtitle": "Volunteering program participation",
+        "description": "Joining a volunteering program will give you social, career and personal benefits!  To get your reward, redeem the code from your program provider to get your tokens.",
+        "image": "https://images.unsplash.com/photo-1569254982489-93e2fdf7fd45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+        "group": 2
+    },
+    {
+        "title": "Heating",
+        "subtitle": "Save energy consumption in your office",
+        "description": "For each degree saved, energy consumption drops by about 6%. To get your reward, save energy right now.",
+        "image": "https://images.unsplash.com/photo-1599028274511-e02a767949a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+        "group": 3
+    },
+    {
+        "title": "(Train)sport",
+        "subtitle": "Commute by public transport to your office",
+        "description": "Commuting by train to work will reduce road traffic and save CO2-Emissions! To get your reward, take the train.",
+        "image": "https://images.unsplash.com/photo-1655121075517-a20eb4e6fe8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80",
+        "group": 3
+    }
+
+]

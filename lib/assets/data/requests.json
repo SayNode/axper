@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Driving",
+        "description": "Sustainable driving with your car",
+        "amount": 200,
+        "user_pk": "0202564234caad4a38a93fccfb26d82b87571ad3d3ce16974fc9ca5586e9422d7dd9",
+        "username": "Tony",
+        "status": "denied",
+        "id": 1
+    },
+    {
+        "title": "Gym",
+        "description": "Joining the Gym",
+        "amount": 700,
+        "user_pk": "9f7plu8u7by0jt1cn4l84jodtzxxz88ojjxk4fceq8mivouif5a8w5d0yu8f52oe5soh",
+        "username": "Fabian",
+        "status": "pending",
+        "id": 2
+    },
+    {
+        "title": "Heating",
+        "description": "Save energy consumption in your office",
+        "amount": 1000,
+        "user_pk": "mvt5wlhvm2y0mhmhcdwumr53wli73gl2xgznwibbg0f30k6eeonmtapg2emdudwvmk28",
+        "username": "Paul",
+        "status": "pending",
+        "id": 3
+    },
+    {
+        "title": "Groceries",
+        "description": "Buy groceries at the local farmers shop",
+        "amount": 50,
+        "user_pk": "279lyek0sqqn5uhpigsxtj57exa3rot393ud2z9i90pxi09vufecmn0gdtps7ddzw6v9",
+        "username": "Anna",
+        "status": "pending",
+        "id": 4
+    },
+    {
+        "title": "Sport",
+        "description": "Sport Activities",
+        "amount": 270,
+        "user_pk": "lt4zryiu14ygba5h9me95qmwb3x1019oldipo7n9jzhe99dtn69mk33q52gr7z8idzey",
+        "username": "Antonio",
+        "status": "done",
+        "id": 5
+    },
+    {
+        "title": "Rideshare",
+        "description": "Car seat sharing",
+        "amount": 540,
+        "user_pk": "dhi9gx9qygkap7cv0oy1zzu4tkodp5x93faiznrvrtyh419jhcrkptea6pwswmfa5j7o",
+        "username": "Lara",
+        "status": "pending",
+        "id": 6
+    },
+    {
+        "title": "Public Transport",
+        "description": "Use of public transport",
+        "amount": 100,
+        "user_pk": "l8yolr16yiffki99fgqdi09xi6hoss7bgy2m9wcwmdsivu7siwz75fk5zngmffe372nh",
+        "username": "Fernando",
+        "status": "pending",
+        "id": 7
+    },
+    {
+        "title": "Gym",
+        "description": "Joining the Gym",
+        "amount": 700,
+        "user_pk": "hxy8ssrhzdw0ii6mgf4rhmxlugn8lns00k0e4nlnd4knr0h8ekh49abpz6f3kdyoxfnt",
+        "username": "Jack",
+        "status": "pending",
+        "id": 8
+    },
+    {
+        "title": "Volunteering",
+        "description": "Volunteering program participation",
+        "amount": 1200,
+        "user_pk": "majcd7blv07ncc2owhx4mma9s4sgfbb4lfxh3ijmh8gp7aw8qwjfq5457mt8zmhlc9hx",
+        "username": "Ivana",
+        "status": "done",
+        "id": 9
+    },
+    {
+        "title": "(Train)sport",
+        "description": "Commute by public transport to your office",
+        "amount": 345,
+        "user_pk": "s38kdnuc9m60n7f0rm5qnev6a5yp09a1t43br145dlzshsy1to13mxl7rocuozsrfgma",
+        "username": "Ronaldo",
+        "status": "denied",
+        "id": 10
+    }
+]

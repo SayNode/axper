@@ -1,0 +1,67 @@
+[
+
+    {
+        "title": "Plant a tree",
+        "description": "One Tree Planted is a global reforestation charity that plants trees around the world! We want to make it simple for anyone to help the environment by planting trees. Since 2014, One Tree Planted has more than doubled the number of trees planted each year, and is working with partners across 43+ countries in North America, Latin America, Africa, Asia, Europe and the Pacific. Together with your support, we're on a mission to restore forests, create habitat for biodiversity, and make a positive social impact around the world. Every dollar donated plants one tree. ",
+        "image": "https://images.unsplash.com/photo-1458966480358-a0ac42de0a7a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "cost": 500,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "30 CHF discount on your insurance",
+        "description": "Redeem your Axper-tokens to get 30 CHF discount to your next payment of your insurance policy at AXA.",
+        "image": "https://images.unsplash.com/photo-1505816014357-96b5ff457e9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1633&q=80",
+        "cost": 750,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "30 CHF for your private pension",
+        "description": "Use your Axper-tokens to invest 30 CHF into your private pension plan (pillar 3) at AXA.",
+        "image": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "cost": 750,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "10% discount at SBB",
+        "description": "Get a voucher of 10% for your next train trip with the SBB.",
+        "image": "https://images.unsplash.com/photo-1641596102763-a9d0586572e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "cost": 300,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "Donation to WWF",
+        "description": "Use your tokens to donate 10 CHF for the projects operated by WWF.",
+        "image": "https://images.unsplash.com/photo-1597953601374-1ff2d5640c85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "cost": 200,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "20 CHF voucher at Migros",
+        "description": "Get a voucher of 20 CHF for your next shopping at any Migros supermarket.",
+        "image": "https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80",
+        "cost": 400,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "Free asparagus",
+        "description": "Redeem your Axper-tokens to get free asparagus at your farmer shop of your choice.",
+        "image": "https://images.unsplash.com/photo-1519590350802-eb212e2ea536?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1673&q=80",
+        "cost": 100,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "Offset CO2",
+        "description": "Our routine impacts the planet daily. Our transportation, food, consumption, and energy use all emit greenhouse gases and contribute to global warming. Do your part by offsetting your carbon footprint.",
+        "image": "https://images.unsplash.com/photo-1552783160-27bfdb2625d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2613&q=80",
+        "cost": 500,
+        "seller_address": "this is the seller address"
+    },
+    {
+        "title": "20% skicard",
+        "description": "The Ticketcorner Skicard – the key to ski tickets in about 60 ski resorts. The Skicard serves as a data carrier for your ski ticket. Each ski ticket purchased must in any case and always be assigned to a Skicard. The Skicard can be reused for future bookings. This is how it works: Order a Skicard now and be properly equipped as you start the winter sports season. Afterwards, you'll not only be able to book a ski ticket for about 60 ski resorts at any time, you'll also benefit from lots of attractive price reductions. As an alternative to mailing, you can also buy your Skicard at any k kiosk, avec shop or Press & Books store. IMPORTANT: After receiving the Skicard, be sure to assign the ski ticket via App or under «Ski tickets» to the new Skicard!",
+        "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "cost": 1000,
+        "seller_address": "this is the seller address"
+    }
+    
+]
